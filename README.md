@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecno
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através
 [desse link](https://www.figma.com/file/2JE53RjXxIPHfO0BV7ZaIE/Pats-C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer?type=design&node-id=306%3A84&t=b53WIHOOrRIVZa7C-1).
-É necessário tem uma conta no [Figma](https://www.figma.com)
+É necessário ter uma conta no [Figma](https://www.figma.com)
